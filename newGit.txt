@@ -1,0 +1,9 @@
+This is me testing out how git push and git pull works. 
+
+I'm not too functional at this ting. 
+
+
+
+Good Bye
+
+
